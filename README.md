@@ -39,7 +39,7 @@ Power Automate detecta el cambio de estado y envía email de cierre al usuario
 
 ## Fase 1 — Crear el formulario de solicitud
 
-**Herramienta:** [Microsoft Forms](https://forms.office.com)
+**Herramienta:** [Microsoft Forms](https://docs.google.com/forms/u/2/?pli=1)
 
 ### Paso 1.1 — Acceder a Microsoft Forms
 
