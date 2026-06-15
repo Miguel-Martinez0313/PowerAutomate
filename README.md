@@ -43,7 +43,7 @@ Power Automate detecta el cambio de estado y envía email de cierre al usuario
 
 ### Paso 1.1 — Acceder a Microsoft Forms
 
-1. Ir a [forms.office.com](https://forms.office.com) con tu cuenta de Office 365.
+1. Ir a [forms.office.com](https://docs.google.com/forms/u/2/?pli=1) con tu cuenta de Office 365.
 2. Hacer clic en **+ Nuevo formulario**.
 3. Darle un nombre descriptivo, por ejemplo: `Solicitud de Soporte Técnico`.
 
