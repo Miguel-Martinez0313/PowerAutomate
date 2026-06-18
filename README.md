@@ -1,9 +1,4 @@
 # 🎫 Manual: Sistema de Tickets Helpdesk con Office 365 y Power Apps
-
-> **Basado en el tutorial de [Christiano T.S.](https://www.youtube.com/@christianoTS)**  
-> Video original: [Ver en YouTube](https://www.youtube.com/watch?v=2NRIp8fdc_w)  
-> Duración aproximada: 1 hora 15 minutos
-
 ---
 
 ## 🧩 Herramientas necesarias
