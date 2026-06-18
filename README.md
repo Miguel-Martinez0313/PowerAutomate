@@ -306,30 +306,6 @@ Cuerpo:    Hola [Nombre],
 
 ---
 
-## ✅ Resultado final — Funcionalidades del sistema
-
-- [x] Formulario público de solicitud de soporte
-- [x] Registro automático de tickets en SharePoint
-- [x] Asignación automática del estado "En proceso"
-- [x] Email de confirmación automático al usuario
-- [x] Notificación automática al técnico de soporte
-- [x] Aplicación móvil/web para gestión de tickets
-- [x] Cambio de estado desde la aplicación (Power Apps)
-- [x] Registro de la solución aplicada por el técnico
-- [x] Email automático al usuario al cerrar el ticket
-
----
-
-## 🔗 Enlaces de acceso directo a cada herramienta
-
-| Herramienta | Enlace |
-|---|---|
-| Microsoft Forms | [forms.office.com](https://forms.office.com) |
-| Power Automate | [make.powerautomate.com](https://make.powerautomate.com) |
-| SharePoint | [sharepoint.com](https://sharepoint.com) |
-| Power Apps | [make.powerapps.com](https://make.powerapps.com) |
-| Office 365 (prueba gratuita) | [microsoft.com/es-mx/microsoft-365/try](https://www.microsoft.com/es-mx/microsoft-365/try) |
-| Video tutorial original | [youtube.com/watch?v=2NRIp8fdc_w](https://www.youtube.com/watch?v=2NRIp8fdc_w) |
 
 ---
 
