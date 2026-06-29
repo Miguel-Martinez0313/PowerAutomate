@@ -309,4 +309,3 @@ Cuerpo:    Hola [Nombre],
 
 ---
 
-*Manual generado con base en el tutorial de Christiano T.S. — [@christianoTS](https://www.youtube.com/@christianoTS)*
